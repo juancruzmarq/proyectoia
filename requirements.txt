@@ -1,0 +1,3 @@
+pandas==2.2.2
+scikit_surprise==1.1.4
+surprise==0.1
