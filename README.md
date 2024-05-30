@@ -15,9 +15,10 @@ Integrantes:
 
 1.  Instalar python 3.11
 2.  Clonar el repositorio con el comando `git clone`
-3.  Crear un entorno virtual con el comando `python -m venv venv` o `python3 -m venv venv` o `py -m venv venv`
-4.  Activar el entorno virtual con el comando `source venv/bin/activate` o `venv\Scripts\activate`
-5.  Instalar las dependencias con el comando `pip install -r requirements.txt`
-6.  Ejecutar el proyecto con el comando `python app.py` 
+3.  Agregar al proyecto los archivos 'books_data.csv' y 'Books_rating.csv' desde: https://www.kaggle.com/code/mohamedbakhet/eda-for-amazon-books-reviews/input (Respetar los nombres de los archivos)
+4.  Crear un entorno virtual con el comando `python -m venv venv` o `python3 -m venv venv` o `py -m venv venv`
+5.  Activar el entorno virtual con el comando `source venv/bin/activate` o `venv\Scripts\activate`
+6.  Instalar las dependencias con el comando `pip install -r requirements.txt`
+7.  Ejecutar el proyecto con el comando `python app.py` 
 
 
